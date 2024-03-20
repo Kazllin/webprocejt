@@ -1,4 +1,4 @@
-import './suario.css';
+import './usuario.css';
 import {Link} from  'react-router-dom'
 
 function Usuario(){
